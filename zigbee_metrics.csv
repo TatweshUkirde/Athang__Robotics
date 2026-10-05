@@ -1,0 +1,5 @@
+Gang,State,Last ON,Last OFF,Runtime (s),Energy (kWh)
+Gang 1,OFF,00:09:34,Never,4,0.0001
+Gang 2,ON,00:09:34,Never,16,0.0005
+Gang 3,ON,00:09:34,Never,18,0.0005
+Gang 4,OFF,Never,Never,0,0.0
